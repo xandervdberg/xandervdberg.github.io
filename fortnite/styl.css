@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: gold;
+    background-image: url("https://giffiles.alphacoders.com/208/208846.gif");
+    background-size: cover;
+    background-position: center;
+}
+img{
+
+    box-shadow: 10px 10px 10px  black; 
+    width: 18cm ;
+    height: 10cm;
+}
+h1{
+    color: white;
+    user-select: none;
+}
+h2{
+    color: white;
+}
+a{
+    background-color: rgb(27, 149, 165);
+    color: greenyellow;
+    margin: 2mm;
+    padding: 3mm;
+    border-radius: 2mm;
+    text-decoration-line: none;
+    box-shadow: 1mm 1mm 1cm black;
+}
+
+#verstopt{
+    visibility: hidden;
+}
