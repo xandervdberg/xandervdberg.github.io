@@ -1,0 +1,30 @@
+h1{
+   color: black;
+   background-color: orangered;
+   border-style: double;
+   border-color: red;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 3em;
+}
+body{
+    background-color: mediumaquamarine;
+    text-align: center;
+    border-style: double;
+    border-color: orangered                                                             
+}
+mark{
+    color: blue
+}
+h2{
+    color: darkblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    color: darkblue;
+    text-align: center;
+}
+br{
+    color: darkblue;
+}
+img{box-shadow: 2mm 2mm 2mm black;}
+
