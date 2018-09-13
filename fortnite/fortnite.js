@@ -34,6 +34,10 @@ botton6 = document.querySelector("#zesde")
 botton6.addEventListener("mouseover", function () {
     botton6.style.color = "blue"
 })
+botton7 = document.querySelector("#zevende")
+botton7.addEventListener("mouseover", function () {
+    botton7.style.color = "blue"
+})
 botton.addEventListener("mouseout", function () {
     botton.style.color = "greenyellow"
 })
@@ -52,7 +56,9 @@ botton5.addEventListener("mouseout", function () {
 botton6.addEventListener("mouseout", function () {
     botton6.style.color = "greenyellow"
 })
-
+botton7.addEventListener("mouseout", function () {
+    botton7.style.color = "greenyellow"
+})
 afbeelding = document.querySelector("#verstopt")
 titel = document.querySelector("#toonAfbeelding")
 titel.addEventListener("click", function () {
