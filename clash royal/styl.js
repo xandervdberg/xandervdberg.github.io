@@ -17,15 +17,6 @@ botton4 = document.querySelector("#vierde")
 botton4.addEventListener("mouseover", function () {
     botton4.style.color = "blue"
 })
-botton5 = document.querySelector("#vijfde")
-botton5.addEventListener("mouseover", function () {
-    botton5.style.color = "blue"
-})
-botton6 = document.querySelector("#zesde")
-botton6.addEventListener("mouseover", function () {
-    botton6.style.color = "blue"
-})
-
 botton.addEventListener("mouseout", function () {
     botton.style.color = "greenyellow"
 })
@@ -37,11 +28,5 @@ botton3.addEventListener("mouseout", function () {
 })
 botton4.addEventListener("mouseout", function () {
     botton4.style.color = "greenyellow"
-})
-botton5.addEventListener("mouseout", function () {
-    botton5.style.color = "greenyellow"
-})
-botton6.addEventListener("mouseout", function () {
-    botton6.style.color = "greenyellow"
 })
 
