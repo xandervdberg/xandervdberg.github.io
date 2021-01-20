@@ -1,0 +1,34 @@
+body{
+    background: palegoldenrod;
+}
+
+
+.vertical-menu {
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+}
+
+.vertical-menu a {
+    background-color: rgb(233, 250, 0);
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    padding-left: 75px;
+    padding-right: 75px;
+    border: black;
+}
+
+.vertical-menu a:hover {
+    background-color: #ccc;
+}
+
+.vertical-menu a.active {
+    background-color: #000000;
+    color: yellow;
+}
+#newsdiv{
+    padding: 100px;
+    background-color: darkgrey;
+}
