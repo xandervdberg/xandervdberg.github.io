@@ -1,0 +1,17 @@
+h1{
+color: rgb(18, 167, 212);
+font-size: 100px;
+}
+body{
+background-color: limegreen;
+}
+h2{
+    color: lightslategrey;
+}
+#tutorial{
+font-size: 70px;
+color: olive;
+}
+#step1{
+    font-size: 210px;
+}
